@@ -1,3 +1,3 @@
 # jzen7387_9103_tut1
 
-Hello world!
+This is a repo that I will use to learn github.
