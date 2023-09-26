@@ -16,6 +16,8 @@ In order to realize the above-mentioned "surrealism" imaging technology, the cod
 
 [Link Text](https://github.com/opencv/opencv/blob/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_core/py_image_arithmetics/py_image_arithmetics.markdown?plain=1)
 
+![An image of a cat](https://raw.githubusercontent.com/opencv/opencv/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_core/py_image_arithmetics/images/blending.jpg)
+
 [Link Text](https://github.com/opencv/opencv/blob/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_imgproc/py_pyramids/py_pyramids.markdown?plain=1#L71)
 
-![An image of a cat](https://pages.cs.wisc.edu/~csverma/CS766_09/ImageMosaic/lpbPic.jpg)
+![An image of a cat](https://raw.githubusercontent.com/opencv/opencv/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_imgproc/py_pyramids/images/orapple.jpg)
