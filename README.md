@@ -4,7 +4,7 @@
 
 I find "surrealist" imaging techniques in photography very inspiring for my assignment. Among them, its "double exposure" technology combines two different images into one picture, creating a dreamy and surreal visual effect, which is very attractive to me. I would like to incorporate this technique into my assignments to add depth and symbolism to my images. By blending two different visuals, I can convey complex meaning or emotion in my assignments beyond what a single image can achieve.
 
-![An image of a cat](https://pica.zhimg.com/70/v2-2b50f043deb5c1e552eb59afc2afaaed_1440w.avis?source=172ae18b&biz_tag=Post)
+![An image of a cat](https://pic4.zhimg.com/80/v2-21715f42dd45916ba074581a683d616f_1440w.webp)
 
 ![An image of a cat](https://pics4.baidu.com/feed/cefc1e178a82b90170cf526295f3967b3812ef88.jpeg@f_auto?token=8baf17b343b20883c8eb997a48d720b5)
 
