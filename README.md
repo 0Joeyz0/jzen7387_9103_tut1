@@ -12,4 +12,4 @@ I find "surrealism" imaging techniques in photography very inspiring for my assi
 
 ## Part 2: Coding Technique Exploration
 
-In order to realize the above-mentioned "surrealism" imaging technology, the coding technology of image mixing and synthesis can be used. This technology can merge two or more images with different transparency to create fantastic composite images. Using programming languages like Python and libraries like OpenCV, I can manipulate pixel values and alpha channels to control blending effects.
+In order to realize the above-mentioned "surrealism" imaging technology, the coding technology of image mixing and synthesis can be used. Use image processing libraries like OpenCV and programming languages like Python to layer two or more images together and control their transparency to create fantastic visual effects. I can use blending modes such as Overlay, Difference, and Color Burn to adjust how the image blends.
