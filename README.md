@@ -1,12 +1,16 @@
-# IDEA9103 git demo
+# IDEA9103 Quiz 8
 
-This is a repo that I will use to learn github.
+## Part 1: Imaging Technique Inspiration
 
-## Getting started
+I find "surrealist" imaging techniques in photography very inspiring for my assignment. Among them, its "double exposure" technology combines two different images into one picture, creating a dreamy and surreal visual effect, which is very attractive to me. I would like to incorporate this technique into my assignments to add depth and symbolism to my images. By blending two different visuals, I can convey complex meaning or emotion in my assignments beyond what a single image can achieve.
 
-*I'm in italics* _I'm also italics_
+![An image of a cat](https://pica.zhimg.com/70/v2-2b50f043deb5c1e552eb59afc2afaaed_1440w.avis?source=172ae18b&biz_tag=Post)
 
-**I'm bold** __I'm also bold__
+![An image of a cat](https://pics4.baidu.com/feed/cefc1e178a82b90170cf526295f3967b3812ef88.jpeg@f_auto?token=8baf17b343b20883c8eb997a48d720b5)
+
+![An image of a cat](https://pics1.baidu.com/feed/f9dcd100baa1cd116494cd7b5f6cf7f0c2ce2dd1.jpeg@f_auto?token=21045740c09ddfca69b9e2af50fe0cba)
+
+## Part 2: Coding Technique Exploration
 
 - My list
     - indented items
