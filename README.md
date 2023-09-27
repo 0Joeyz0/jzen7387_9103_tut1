@@ -4,7 +4,7 @@
 
 **Pointillism**
 
-I found the imaging techniques of "Pointillism" in artworks very inspiring for my assignment. This technique uniquely captures a sense of depth, texture, and vibrant color, using short, broken brushstrokes to convey changes in light, color, and atmosphere. I love this imaging technique of carefully placing individual points of color to form a cohesive image, and wanted to incorporate this technique into my assignments to provide an interesting and visually appealing presentation.
+I found the imaging techniques of "Pointillism" in artworks very inspiring for my assignment. This technique captures a high degree of textural detail as well as vibrant colors, using short and broken brushstrokes to convey changes in light, color and atmosphere, providing a visually captivating and unique way of creating images. This imaging technique, where individual color dots are carefully placed to form a cohesive image, is not only visually appealing but also fun to explore. I hope to incorporate this technique into my assignments to provide interesting and visually appealing presentations. And it can bridge the gap between art and technology, showing how coding can be used to replicate the techniques of traditional art.
 
 ![An image of a cat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/2560px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg)
 
