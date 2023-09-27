@@ -8,9 +8,10 @@ I found the imaging techniques of "Pointillism" in artworks very inspiring for m
 
 ![An image of a cat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/2560px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg)
 
+![An image of a cat](https://uploads6.wikiart.org/images/theo-van-rysselberghe/the-beach-at-ambleteuse-at-low-tide-1900.jpg!Large.jpg)
+
 ![An image of a cat](https://uploads7.wikiart.org/images/paul-signac/le-clipper-asnieres-1887.jpg!Large.jpg)
 
-![An image of a cat](https://uploads6.wikiart.org/images/theo-van-rysselberghe/the-beach-at-ambleteuse-at-low-tide-1900.jpg!Large.jpg)
 
 ## Part 2: Coding Technique Exploration
 
