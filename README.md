@@ -2,22 +2,26 @@
 
 ## Part 1: Imaging Technique Inspiration
 
-I find "surrealism" imaging techniques in photography very inspiring for my assignment. Among them, its "double exposure" technology combines two different images into one picture, creating a dreamy and surreal visual effect, which is very attractive to me. I would like to incorporate this technique into my assignments to add depth and symbolism to my images. By blending two different visuals, I can convey complex meaning or emotion in my assignments beyond what a single image can achieve.
+**Pointillism**
 
-![An image of a cat](https://pic4.zhimg.com/80/v2-21715f42dd45916ba074581a683d616f_1440w.webp)
+I found the imaging techniques of "Pointillism" in artworks very inspiring for my assignment. This technique uniquely captures a sense of depth, texture, and vibrant color, using short, broken brushstrokes to convey changes in light, color, and atmosphere. I love this imaging technique of carefully placing individual points of color to form a cohesive image, and wanted to incorporate this technique into my assignments to provide an interesting and visually appealing presentation.
 
-![An image of a cat](https://pics4.baidu.com/feed/cefc1e178a82b90170cf526295f3967b3812ef88.jpeg@f_auto?token=8baf17b343b20883c8eb997a48d720b5)
+![An image of a cat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/2560px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg)
 
-![An image of a cat](https://pics1.baidu.com/feed/f9dcd100baa1cd116494cd7b5f6cf7f0c2ce2dd1.jpeg@f_auto?token=21045740c09ddfca69b9e2af50fe0cba)
+![An image of a cat](https://uploads7.wikiart.org/images/paul-signac/le-clipper-asnieres-1887.jpg!Large.jpg)
+
+![An image of a cat](https://uploads6.wikiart.org/images/theo-van-rysselberghe/the-beach-at-ambleteuse-at-low-tide-1900.jpg!Large.jpg)
 
 ## Part 2: Coding Technique Exploration
 
-In order to realize the above-mentioned "surrealism" imaging technology, the coding technology of image mixing and synthesis can be used. Use image processing libraries like OpenCV and programming languages like Python to layer two or more images together and control their transparency to create fantastic visual effects. I can use blending modes such as Overlay, Difference, and Color Burn to adjust how the image blends.
+To implement the above-mentioned "pointillism" imaging techniques, Python with the Pillow library is a good choice. This encoding technique places color dots (pixels) in precise locations, and by manipulating the color and position of each pixel, I can imitate the detailed and vibrant compositional characteristics of Pointillism paintings.
 
-1. [Link Text](https://github.com/opencv/opencv/blob/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_core/py_image_arithmetics/py_image_arithmetics.markdown?plain=1)
+1. [Link Text](https://github.com/matteo-ronchetti/Pointillism)
 
-![An image of a cat](https://raw.githubusercontent.com/opencv/opencv/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_core/py_image_arithmetics/images/blending.jpg)
+![An image of a cat](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7mPqVRajHhr89DRds4hnDw.jpeg)
 
-2. [Link Text](https://github.com/opencv/opencv/blob/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_imgproc/py_pyramids/py_pyramids.markdown?plain=1#L71)
+![An image of a cat](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*0OyMRhqjWzugfVxcxwaJkw.jpeg)
 
-![An image of a cat](https://raw.githubusercontent.com/opencv/opencv/9942757bab881811816478c86d56924cf35c0d22/doc/py_tutorials/py_imgproc/py_pyramids/images/orapple.jpg)
+2. [Link Text](https://github.com/shubhankarsharma00/pointillism-using-hexbot)
+
+![An image of a cat](https://github.com/shubhankarsharma00/pointillism-using-hexbot/blob/master/examples/test5.png?raw=true)
